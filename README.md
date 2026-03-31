@@ -15,7 +15,7 @@
 ### ▶️ VM Setup Command
 
 ```bash
-bash <(curl -fsSL https://github.com/ptero-and-vm-makers/idx-vps/tree/main
+bash <(curl -fsSL https://github.com/ptero-and-vm-makers/idx-vps
 ```
 
 ---
